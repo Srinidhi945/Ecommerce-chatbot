@@ -1,0 +1,17 @@
+redis
+langchain-community
+langchain
+langchain-google-genai
+langchain-core
+langchain-huggingface
+sentence-transformers
+langchain-astradb
+python-dotenv
+flask
+torch
+datasets
+pypdf
+# Memory-related:
+langchain-redis
+
+-e .  #used to store editings

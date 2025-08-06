@@ -81,6 +81,7 @@ ASTRA_DB_API_ENDPOINT="your_astra_db_endpoint_here"
 ASTRA_DB_APPLICATION_TOKEN="AstraCS:your_astra_db_token_here"
 GOOGLE_API_KEY="your_google_ai_api_key_here"
 REDIS_URL="your_redis_connection_url_here"
+ASTRA_DB_KEYSPACE="keyspace"
 ```
 ### Step 4: Install Dependencies & Resolve Conflicts
 First, install the packages from requirements.txt. Then, run the specified upgrade commands to ensure version compatibility.
